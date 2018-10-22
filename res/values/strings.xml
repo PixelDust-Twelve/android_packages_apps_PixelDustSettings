@@ -417,4 +417,8 @@
     <string name="location_privacy_indicator_title">Location access indicator</string>
     <string name="location_privacy_indicator_summary_on">Show location in the privacy chip</string>
     <string name="location_privacy_indicator_summary_off">Show location in status bar icons</string>
+
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">VoLTE icon</string>
+    <string name="volte_icon_summary">Display VoLTE icon</string>
 </resources>

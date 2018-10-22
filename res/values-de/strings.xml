@@ -422,4 +422,8 @@
     <string name="location_privacy_indicator_title">Indikator für Standortzugriff</string>
     <string name="location_privacy_indicator_summary_on">Standortzugriff im Datenschutzchip anzeigen</string>
     <string name="location_privacy_indicator_summary_off">Standortzugriff als Symbol in der Statusleiste anzeigen</string>
+
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">VoLTE-Symbol</string>
+    <string name="volte_icon_summary">VoLTE-Symbol anzeigen</string>
 </resources>
