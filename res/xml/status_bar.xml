@@ -29,6 +29,12 @@
     </com.pixeldust.support.preference.CardviewPreference>
 
     <com.pixeldust.support.preference.CardviewPreference
+        android:key="battery_settings_category"
+        android:fragment="com.pixeldust.settings.fragments.BatterySettings"
+        android:icon="@drawable/ic_battery_settings"
+        android:title="@string/battery_settings_title" />
+
+    <com.pixeldust.support.preference.CardviewPreference
         android:key="carrier_label"
         android:fragment="com.pixeldust.settings.fragments.CarrierLabel"
         android:icon="@drawable/ic_carrier_label"
