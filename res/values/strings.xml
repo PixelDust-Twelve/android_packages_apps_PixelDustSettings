@@ -289,4 +289,8 @@
     <!-- QS battery estimates -->
     <string name="qs_show_battery_estimate_title">Battery estimates</string>
     <string name="qs_show_battery_estimate_summary">Show estimated remaining battery life next to the icon</string>
+
+    <!-- Navigation bar -->
+    <string name="navigation_bar_title">On-screen navigation bar</string>
+    <string name="navigation_bar_summary">Enable on-screen navigation keys</string>
 </resources>
