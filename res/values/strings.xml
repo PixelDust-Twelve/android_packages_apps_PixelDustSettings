@@ -54,6 +54,9 @@
     <string name="general_tweaks_title">General Tweaks</string>
     <string name="general_category">General</string>
 
+    <!-- About -->
+    <string name="about_title">About PixelDust</string>
+
     <!-- Carrier Label -->
     <string name="carrierlabel_title">Carrier Label</string>
 
