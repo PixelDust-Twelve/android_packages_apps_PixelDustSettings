@@ -69,7 +69,7 @@ public class About extends SettingsPreferenceFragment {
         if (preference == mDonate) {
             launchUrl("https://www.paypal.me/spezi77");
         } else if (preference == mSourceUrl) {
-            launchUrl("https://github.com/pixeldust-project-caf");
+            launchUrl("https://github.com/PixelDust-Twelve");
         } else if (preference == mTelegramUrl) {
             launchUrl("https://t.me/pixeldustcommunity");
         } else if (preference == mTelegramChannelUrl) {
