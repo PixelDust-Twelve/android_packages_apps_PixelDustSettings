@@ -432,4 +432,8 @@
     <!-- VoWiFi icon -->
     <string name="vowifi_icon_title">VoWiFi-Symbol</string>
     <string name="vowifi_icon_summary">VoWiFi-Symbol anzeigen falls verfügbar</string>
+
+    <!-- Combined signal icons in status bar -->
+    <string name="combined_status_bar_signal_icons_title">Kombinierte Signalsymbole</string>
+    <string name="combined_status_bar_signal_icons_summary">WLAN und Mobilfunksignal in einem einzigen Symbol kombinieren</string>
 </resources>
