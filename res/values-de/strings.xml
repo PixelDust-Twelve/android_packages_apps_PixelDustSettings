@@ -446,6 +446,8 @@
     <!-- VoWiFi icon -->
     <string name="vowifi_icon_title">VoWiFi-Symbol</string>
     <string name="vowifi_icon_summary">VoWiFi-Symbol anzeigen falls verfügbar</string>
+    <string name="volte_vowifi_override_title">VoWiFi override</string>
+    <string name="volte_vowifi_override_summary">VoLTE-Symbol verbergen wenn VoWiFi verfügbar ist</string>
 
     <!-- Combined signal icons in status bar -->
     <string name="combined_status_bar_signal_icons_title">Kombinierte Signalsymbole</string>
